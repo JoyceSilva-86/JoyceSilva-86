@@ -1,6 +1,6 @@
 # Hello 👋
 
-## I'm Joyce Pereira
+## I'm Joyce Silva
 
 After nearly a decade working as a Quality Manager Nurse in the healthcare industry, I’m now transitioning into the **QA (Quality Assurance)** field. I bring a strong background in process auditing, compliance, and operational quality, now applied to software development and testing.
 
